@@ -1,2 +1,3 @@
 # rrajguru
-Repo created by rrajguru for the OPS445 course during Winter 2023
+Name: Rohan Rajguru
+Section: OPS445NDD
